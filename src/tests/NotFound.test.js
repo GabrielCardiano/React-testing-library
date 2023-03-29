@@ -1,6 +1,5 @@
 import React from 'react';
 import { screen } from '@testing-library/react';
-import { scryRenderedComponentsWithType } from 'react-dom/test-utils';
 import NotFound from '../pages/NotFound';
 import renderWithRouter from '../renderWithRouter';
 
